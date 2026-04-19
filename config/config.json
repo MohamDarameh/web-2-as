@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "000012",
+    "database": "authors_books_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
